@@ -13,6 +13,13 @@ patch to ubuntu 2018 or latest
 - sudo apt install make
 - sudo apt-get install g++ manpages-dev libjpeg62-dev libncurses5-dev git
 
+#### --- Install opencv
+- sudo apt-get install libopencv-dev -y
+
+### --- Remote Desktop
+- <a href="https://tecadmin.net/setup-x11vnc-server-on-ubuntu-linuxmint/"> cara install remote desktop</a>
+
+
 #### --- Program change
 step 1. change camera.h <br>
 change
